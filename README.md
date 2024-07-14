@@ -40,7 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://www.bing.com/chat?form=NTPCHB)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Capcut](https://file.notion.so/f/f/fec0c407-2dfa-43bf-a65b-805455502796/bc8fc9b7-0d5f-4578-aaf2-f919d6a75688/Podcast_Editado.mp3?id=a895d1d5-b64f-4144-8c5a-a58297c890c6&table=block&spaceId=fec0c407-2dfa-43bf-a65b-805455502796&expirationTimestamp=1721088000000&signature=Lro19VukLr0X-HGveZRk6g0fU5DocqjU9JZ9KCtUfO4&downloadName=Podcast+Editado.MP3)
 
 ## ✨ Como foi feito ?
 
@@ -52,7 +52,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/Podcast-0d8f03b3636b407181296c91a30b84d7?pvs=4))
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
